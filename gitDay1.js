@@ -11,5 +11,13 @@ function day1(){
     console.log("Tauhida - Testing Git again");
     console.log("Tauhida - Testing Git again");
 
+     console.log("Tauhida - Testing Git again");
+    console.log("Tauhida - Testing Git again");
+    console.log("Tauhida - Testing Git again");
+
+     console.log("Tauhida - Testing Git again");
+    console.log("Tauhida - Testing Git again");
+    console.log("Tauhida - Testing Git again");
+
 
 }
